@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jose Jurado, a chemical engineer (BS/MS) turned materials scientist (PhD) currently working as a Postdoc at KAUST. Through my undergrad, masters and time as a PhD fellow, I became passionate about software and web development. I am mainly self-taught, but I have dabbled in IBM courses to build on my frontend and backend skills. I prefer backend development, but I also enjoy making elegant interfaces. I pride myself in building clear, high-quality codes with appropriate architecture and documentation. The code I deliver must be clear, simple, well tested, bug-free, refactored, documented, and performant. 
 
-Ask me about anything! Reach me on [Linkedin!](www.linkedin.com/in/josepjuradoc).
+Ask me about anything! Reach me on [Linkedin!](google.com).
 
 
 
