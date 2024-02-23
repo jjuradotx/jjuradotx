@@ -3,6 +3,8 @@ I'm Jose Jurado, a chemical engineer (BS/MS) turned materials scientist (PhD) cu
 
 Ask me about anything! Reach me on <a href="www.linkedin.com/in/josepjuradoc/">linkedin!</a>
 
+[I'm an inline-style link](https://www.google.com)
+
 
 <!--
 **jjuradotx/jjuradotx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
