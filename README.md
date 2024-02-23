@@ -3,6 +3,8 @@ I'm Jose Jurado, a chemical engineer (BS/MS) turned materials scientist (PhD) cu
 
 Ask me about anything! Reach me on [Linkedin!](google.com).
 
+[I'm an inline-style link](https://www.google.com)
+
 
 
 <!--
